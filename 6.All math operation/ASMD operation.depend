@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1518101136 source:c:\users\jaan\desktop\asmd operation\main.c
+	<stdio.h>
+	<stdlib.h>
+

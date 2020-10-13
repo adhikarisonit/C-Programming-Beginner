@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519153071 source:c:\users\jaan\desktop\check prime number\main.c
+	<stdio.h>
+	<stdlib.h>
+
